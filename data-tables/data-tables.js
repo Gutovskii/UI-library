@@ -25,7 +25,7 @@ const config_1 = { // пишу через _ потому что уже есть 
   },
   actionButtons: true // добавляет колонку действия
 };
-
+ 
 const users = [
   {id: 30050, name: 'петя', surname: 'Петров', age: 12},
   {id: 30051, name: 'Вася', surname: 'Васечкин', age: 25},
