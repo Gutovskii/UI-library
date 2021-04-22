@@ -1,6 +1,6 @@
 <template>
-	<button class="button" :class="stylesArray" @click="$emit('btn-event')">
-		<slot></slot>
+	<button class="button" :class="stylesArray" @click="$emit('btn-click')">
+		<slot>Person</slot>
 	</button>
 </template>
 
